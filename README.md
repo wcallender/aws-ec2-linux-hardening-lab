@@ -52,31 +52,34 @@ Layered controls successfully restricted unauthorized access attempts.
 Configuration file modified:
 ```bash
 /etc/ssh/sshd_config
+
 ## Security Implementation Evidence
 
 ### AWS Security Group Configuration
-![AWS Security Groups](screenshots/AWS Security Groups.png)
+![AWS Security Groups](screenshots/aws-security-groups.png)
 
 ### EC2 Instance Running
-![Instance Running](screenshots/Instance Running.png)
+![Instance Running](screenshots/instance-running.png)
 
 ### SSH Login from macOS
-![SSH Login](screenshots/SSH login from MAC.png)
+![SSH Login](screenshots/ssh-login-mac.png)
 
 ### Firewall Protection (UFW)
-![Firewall](screenshots/Firewall protection.png)
+![Firewall](screenshots/firewall-protection.png)
 
 ### SSH Defense Rules
-![UFW](screenshots/ufw-ssh-defense-restricted.png)
+![UFW](screenshots/ufw-ssh-defense.png)
 
 ### Fail2Ban Intrusion Prevention
-![Fail2Ban](screenshots/fail2Ban service.png)
+![Fail2Ban](screenshots/fail2ban-service.png)
 
 ### SSH Brute Force Monitoring
-![Brute Force](screenshots/SSH monitoring for brute attacks.png)
+![Brute Force](screenshots/ssh-bruteforce-monitoring.png)
 
 ### Authentication Log Monitoring
-![Logs](screenshots/logs activity.png)
+![Logs](screenshots/logs-activity.png)
 
 ### Patch Management
-![Updates](screenshots/Systems update patch mangement.png)
+![Updates](screenshots/patch-management.png)
+
+![Updates](screenshots/patch-management2.png)
