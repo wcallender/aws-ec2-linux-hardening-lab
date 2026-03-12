@@ -50,8 +50,11 @@ Layered controls successfully restricted unauthorized access attempts.
 
 
 Configuration file modified:
-```bash
+
+
 /etc/ssh/sshd_config
+
+
 ## Security Implementation Evidence
 
 ### AWS Security Group Configuration
