@@ -70,7 +70,7 @@ Configuration file modified:
 ![Firewall](screenshots/firewall-protection.png)
 
 ### SSH Defense Rules
-![UFW](screenshots/ufw-ssh-defense.png)
+![UFW](screenshots/ufw-ssh-defense-restricted.png)
 
 ### Fail2Ban Intrusion Prevention
 ![Fail2Ban](screenshots/fail2ban-service.png)
